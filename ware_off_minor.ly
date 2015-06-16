@@ -29,13 +29,13 @@
 
   d4 des d d, |   
   d'4 des d g, |   
-  r8 b,4. f'8 bes,4. |
-  bes'8 ees,4 aes4 d,4. |    
+  r8 b,4. f'8 bes,4 bes'8~ |
+  bes8 ees,4 aes4 d,4. |    
   \break
 
   g4 \harmonicsOn g' d g \harmonicsOff |
   bes,,4 d g bes |
-  a,4 c8 e8 b'8 a8 e8 c8 |
+  a,4 c8. e16 b'8. a16 e8. c16 |
   ees4 d8 aes'4.-> aes4\staccato |
   \break
 
@@ -46,13 +46,13 @@
   \break
 
   r8 g4 a4 bes4 a8~ |
-  a8 g4 d4 bes4 a8->~ |
+  a8 g4 d4 bes4. |
   a2 a'8. e16 a,8. d16~ |
-  d4 d'8. d,16  d'8. d,16  d'8\staccato r8 |
+  d4 d'8. d,16  d'8. d,16  d'8. d,16 |
   \break
 
-  r8 cis,4 d4. r8 ees8~ |
-  ees8 g4 bes4. r16 ees,8 d16 | 
+  r8 cis4 d4. r8 ees8~ |
+  ees8 g4 bes4 ees,4 d8 | 
   b4 b'4 b4 gis4 | 
   gis8 e4 b4 e,4. | 
   \break
