@@ -35,14 +35,15 @@
 
   g4 \harmonicsOn g' d g \harmonicsOff |
   bes,,4 d g bes |
-  a,4 c8. e16 b'8. a16 e8. c16 |
+  %a,4 c8. e16 b'8. a16 e8. c16 |
+  a,4 \tuplet 3/2 {c4 e8} \tuplet 3/2 {b'4 a8} \tuplet 3/2 {e4 c8} |
   ees4 d8 aes'4.-> aes4\staccato |
   \break
 
   r8 \harmonicsOn g'4-> \harmonicsOff d,4 bes4. |
-  d4 cis4 cis'8. g16 fis4 |
-  cis'4 b4 b,8. fis'16 e4 |
-  bes'8. a16 aes8. ees16~ ees4 aes4 |
+  d4 cis4 \tuplet 3/2 {cis'4 g8} fis4 |
+  cis'4 b4 \tuplet 3/2 {b,4 fis'8} e4 |
+  \tuplet 3/2 {bes'4 a8} \tuplet 3/2 {aes4 ees8~} ees4 aes4 |
   \break
 
   r8 g4 a4 bes4 a8~ |
