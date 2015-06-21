@@ -57,8 +57,8 @@
 
   r8 ees4 ees8 ees4 r8 ees8~ |
   ees8 ees8 ees4 r8 e4 e8 |
-  e4 r16 e8. r16 e8. r16 e8. |
-  r2. a4 |
+  e4 r8 e4 e4 e8~ |
+  e4 r2 a4 |
   \break
   \break
 
