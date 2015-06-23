@@ -55,31 +55,18 @@
   g c, f g |
   \break
 
+  % bar 17
   r8 ees4 ees8 ees4 r8 ees8~ |
+  %ees8 ees8 ees4 r4 \tuplet 3/2 { e4 e4 e4 } |
   ees8 ees8 ees4 r8 e4 e8 |
+  %\tuplet 3/2 { e4 } r8 e4 e8 e4 |
+  %r4.  \tuplet 3/2 { e4 e4 e4 } |
   e4 r8 e4 e4 e8~ |
-  e4 r2 a4 |
-  \break
-  \break
-
-  r8 \harmonicsOn g'4-> \harmonicsOff d,4 bes4. |
-  d4 cis4 \tuplet 3/2 {cis'4 g8} fis4 |
-  cis'4 b4 \tuplet 3/2 {b,4 fis'8} e4 |
-  \tuplet 3/2 {bes'4 a8} \tuplet 3/2 {aes4 ees8~} ees4 aes4 |
+  e8 r8 r2 a4 |
   \break
 
-  r8 g4 a4 bes4 a8~ |
-  a8 g4 d4 bes4. |
-  a2 a'8. e16 a,8. d16~ |
-  d4 d'8. d,16  d'8. d,16  d'8. d,16 |
+  % bar 21
   \break
-
-  r8 cis4 d4. r8 ees8~ |
-  ees8 g4 bes4 ees,4 d8 | 
-  b4 b'4 b4 gis4 | 
-  gis8 e4 b4 e,4. | 
-  \break
-
 
   \bar "|."
 }
