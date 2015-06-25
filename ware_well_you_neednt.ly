@@ -78,7 +78,7 @@
 
   % bar 29
   f,4 r8 bes8 ees,4 r8 c'8 |
-  f,4 r8 des'8 ges,8 g8 r4 |
+  f,4 r8 c'8 ges,8 g8 r4 |
   f4 a,4 bes4 b4 |
   c4 cis4 d4 e4 |
   \break
