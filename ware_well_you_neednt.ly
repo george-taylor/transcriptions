@@ -83,7 +83,7 @@
   f,4 r8 des'8 ges,8 g8 r4 |
   f4 a,4 bes4 b4 |
   c4 cis4 d4 e4 |
-  r4 r8 c'8 <f, c'>2\fermata |
+  r4 r8 c'8~ <f, c'>2\fermata |
   \bar "|."
 }
         \layout { }
