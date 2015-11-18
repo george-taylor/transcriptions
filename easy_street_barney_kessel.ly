@@ -30,6 +30,7 @@
          r8 < bes aes' des f >4. r8 < ees g des' ges >4. |
          r8 < ees ges des' f >4. r8 < aes, c' e ces' >4. |
          r8 < des bes' fes' aes >4. r8 < bes aes' des ges >4. |
+         \break
 
          r8 < aes g' c ees >4. r8 < f a' ees' aes >4. |
          r8 < bes aes' des f >4. r8 < ees g des' ges >4. |
@@ -38,8 +39,28 @@
              < f ces' >8 < f ces' > < f ces' >
              < f ces' >  < f ces' > < f ces' >
              < f ces' >  < f ces' > < f ces' >
-         < aes f>4 ees8
+         < aes ees>4 f8
          }
+         \break
+
+         r8 < aes,, g' c ees >4. 
+         \tuplet 3/2 8 { 
+         r8 < aes' ees' >16 
+         < g d' >16 < ges des' >16 < f c' >16 
+         }
+         < f c' ees aes >4 |
+
+         r8 < bes, aes' des f >4. 
+         \tuplet 3/2 8 { 
+         r8 < des'' ges >16 
+         < c f >16 < ces fes >16 < bes ees>16 
+         }
+         < g des' ges >4 |
+
+         r8 < ees ges des' f >4. r8 < aes, c' e ces' >4. |
+         r8 < des bes' fes' aes >4. r8 < bes aes' des ges >4. |
+         \break
+
          \bar "|."
 }
       \layout { }
