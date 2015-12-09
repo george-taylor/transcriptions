@@ -39,6 +39,7 @@
          r8 < des bes' fes' aes >4. r8 < bes aes' des ges >4. |
          \break
 
+         %%%%%%%%%%%%%%%%%%%%% bar 5 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
          r8 < aes g' c ees >4. r8 < f a' ees' aes >4. |
          r8 < bes aes' des f >4. r8 < ees g des' ges >4. |
          %r8 < c' ees >8 < c ees >8 < des f >8 < c ees >8 aes8 < c ees >8 < des f >8 |
@@ -74,6 +75,20 @@
          r8 < des bes' fes' aes >4. r8 < bes aes' des ges >4~ < bes aes' des fes >8 |
          \break
 
+         %%%%%%%%%%%%%%%%%%%%% bar 13 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+         r8 < aes g' c ees >4. f16 ees' a ces ges' ces, a ees |
+         r8 < bes aes' des f >4. r8 < ees g des' f >4. |
+         %r8 < c' ees >8 < c ees >8 < des f >8 < c ees >8 aes8 < c ees >8 < des f >8 |
+         \tuplet 3/2 4 { 
+         r4 < c' ees >8 < c ees >4 < des f >8 < c ees >4 aes8 < c ees >4 < des f >8 |
+         }
+         \tuplet 3/2 4 { 
+             < des f bes >8 < f ces' > < f ces' >
+             < des f bes >  < f ces' > < f ces' >
+             < des f bes >  < f ces' > < f bes >
+         < bes, f' aes >4  <g des' f>8
+         }
+         \break
          \bar "|."
 }
       \layout { }
