@@ -78,16 +78,18 @@
          %%%%%%%%%%%%%%%%%%%%% bar 13 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
          r8 < aes g' c ees >4. f16 ees' a ces ges' ces, a ees |
          r8 < bes aes' des f >4. r8 < ees g des' f >4. |
-         %r8 < c' ees >8 < c ees >8 < des f >8 < c ees >8 aes8 < c ees >8 < des f >8 |
          \tuplet 3/2 4 { 
-         r4 < c' ees >8 < c ees >4 < des f >8 < c ees >4 aes8 < c ees >4 < des f >8 |
+             < f' ces' >8 < ges c > < ees' >
+             < f, ces' >8 < ges c > < ees' >
+             < f, ces' >8 < ges c > < ees' >
+             < f, ces' >8 < ges c > < ees' > |
          }
+         < ges, c >4\staccato 
          \tuplet 3/2 4 { 
-             < des f bes >8 < f ces' > < f ces' >
-             < des f bes >  < f ces' > < f ces' >
-             < des f bes >  < f ces' > < f bes >
-         < bes, f' aes >4  <g des' f>8
+             < a, cis g' b >4 < aes c ges' bes >8~  
+             < aes c ges' bes >4. 
          }
+         r4 |
          \break
          \bar "|."
 }
