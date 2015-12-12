@@ -84,8 +84,9 @@
              < f, ces' >8 < ges c > < ees' >
              < f, ces' >8 < ges c > < ees' > |
          }
-         < ges, c >4\staccato 
+         < f, ces' >64 < ges c >32.\staccato r8.
          \tuplet 3/2 4 { 
+             % < aes, c ges' bes >8  < a cis g' b > < aes c ges' bes >8~  
              < a, cis g' b >4 < aes c ges' bes >8~  
              < aes c ges' bes >4. 
          }
