@@ -92,6 +92,12 @@
          }
          r4 |
          \break
+
+         %%%%%%%%%%%%%%%%%%%%% bar 17 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+         < des, aes' c f >4 
+         < des aes' c f > 
+         < des aes' c f > 
+         < des aes' c f > |
          \bar "|."
 }
       \layout { }
