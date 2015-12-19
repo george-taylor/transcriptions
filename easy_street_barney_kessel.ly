@@ -94,10 +94,9 @@
          \break
 
          %%%%%%%%%%%%%%%%%%%%% bar 17 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-         < des, aes' c f >4 
-         < des aes' c f > 
-         < des aes' c f > 
-         < des aes' c f > |
+         < des, aes' c f >4 < des aes' c f > < des aes' c f > < des aes' c f > |
+         < des aes' ces fes >4 < des aes' ces fes > < des aes' ces fes > < des aes' ces fes > |
+         < c g' c ees >4 < c g' c ees > < c g' c ees > < c g' c ees > |
          \bar "|."
 }
       \layout { }
