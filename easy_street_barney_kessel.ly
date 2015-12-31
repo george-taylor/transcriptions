@@ -97,6 +97,18 @@
          < des, aes' c f >4 < des aes' c f > < des aes' c f > < des aes' c f > |
          < des aes' ces fes >4 < des aes' ces fes > < des aes' ces fes > < des aes' ces fes > |
          < c g' c ees >4 < c g' c ees > < c g' c ees > < c g' c ees > |
+
+         r16 < c' ees bes' >8. 
+         < ees, f' >8 < ges c >16 < c >16
+         \tuplet 3/2 8 { 
+             < c ees >16 < c f > < c ees >
+             < des >16 < ees > < des >
+         }
+
+         < ees, ges c >4 |
+         \break
+         %%%%%%%%%%%%%%%%%%%%% bar 21 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
          \bar "|."
 }
       \layout { }
