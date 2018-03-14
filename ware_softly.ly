@@ -3,20 +3,21 @@
 \header {
         % The following fields are centered
         % dedication = "Dedication"
-        title = "Softly, as in a Morning Sunrise" 
-        subtitle = "Wilbur Ware Bass Solo" 
-        subsubtitle = "Subsubtitle"
+        title = "Softly, as in a Morning Sunrise - Wilbur Ware Bass Solo" 
+        % subtitle = "Wilbur Ware Bass Solo" 
+        % subsubtitle = "Subsubtitle"
         % The following fields are evenly spread on one line
         % the field "instrument" also appears on following pages
         % instrument = \markup \with-color #green "Instrument"
-        poet = "Poet"
+        % instrument = "Wilbur Ware Bass Solo"
+        % poet = "Poet"
         composer = "Sigmund Romberg and Oscar Hammerstein II"
         % The following fields are placed at opposite ends of the same line
-        meter = "Meter"
-        %arranger = "transcription by George Taylor"
+        % meter = "Meter"
+        % arranger = "transcription by George Taylor"
         arranger = "transcription by Geo."
         % The following fields are centered at the bottom
-        tagline = "Music engraving by LilyPond 2.18.2—www.lilypond.org" % tagline at bottom of last page
+        tagline = "Music engraving by LilyPond 2.18.2 - www.lilypond.org" % tagline at bottom of last page
         copyright = "" % copyright goes at the bottom of the first page
 }
 
@@ -44,11 +45,12 @@
   a4. g4. g'4 |   
   \break
 
+  % bar 9 
   % \tuplet 3/2 {r4 bes,8} g4 a bes | 
-  r8. bes,16 g4 a bes | 
-  a4 bes b c | 
-  c,4 cis d fis |
-  g4 b c e |
+  r4 b8 c g ees c a | 
+  d4. aes'4 g8 f b |
+  d4 aes b c | 
+  c2 r2|
   \break
 
   f4 f, ees ees' |
