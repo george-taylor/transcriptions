@@ -5,15 +5,16 @@
         % dedication = "Dedication"
         title = "Softly, as in a Morning Sunrise" 
         subtitle = "Wilbur Ware Bass Solo" 
-        % subsubtitle = "Subsubtitle"
+        subsubtitle = "Subsubtitle"
         % The following fields are evenly spread on one line
         % the field "instrument" also appears on following pages
         % instrument = \markup \with-color #green "Instrument"
-        % poet = "Poet"
+        poet = "Poet"
         composer = "Sigmund Romberg and Oscar Hammerstein II"
         % The following fields are placed at opposite ends of the same line
-        % meter = "Meter"
-        arranger = "transcription by George Taylor"
+        meter = "Meter"
+        %arranger = "transcription by George Taylor"
+        arranger = "transcription by Geo."
         % The following fields are centered at the bottom
         tagline = "Music engraving by LilyPond 2.18.2—www.lilypond.org" % tagline at bottom of last page
         copyright = "" % copyright goes at the bottom of the first page
@@ -25,21 +26,22 @@
   \clef bass
   \key c \minor
   \time 4/4
-  \tempo "med. swing" 4 = 163
+  \tempo "med. swing" 4 = 136
 
   \break
   \break
 
-  f,4 c' f, c' |   
-  f,4 c' f, c' |   
-  f,4 c' f, c' |   
-  ges4 des' ges, des' |   
+  c4 c g4. f8~ |   
+  f8 g4 f8 g4 f |   
+  c'4 c ees,4. d8~ |   
+  d8 ees4 d8 ees4 d |   
   \break
 
-  f,4 c' f, c' |   
-  f,4 c' f, c' |   
-  f,4 c' d  e |   
-  f4 \harmonicsOn g4 \harmonicsOff a4 bes4 |   
+  g4 g c,4. aes'8~ |   
+  aes8 f4 d4 g4 f8 |   
+  ees4 c4 bes4. a8~ |   
+  % a4. g4. \harmonicsOn g''4 \harmonicsOff |   
+  a4. g4. g'4 |   
   \break
 
   % \tuplet 3/2 {r4 bes,8} g4 a bes | 
