@@ -57,23 +57,24 @@
   c4 d ees f |
   g8 ees4 g4. f8 d |
   aes'8 g d b e4 d4 |
-  c4 b8 c4 d8 c4 |
+  c4 b8 c4 g'8 f4 |
   \break
 
   % BRIDGE bar 17
-  r8 ees4 ees8 ees4 r8 ees8~ |
-  ees8 ees8 ees4 r8 e4 e8 |
-  e4 r8 e4 e4 e8~ |
-  e8 r8 r2 a4 |
+  ees4 bes' bes c |
+  c8 bes4 bes4. aes4 |
+  %g4 f ees4. g8-> |
+  g8 f4 ees4\glissando e4 g8-> |
+  d4 des8 c4 g'8 e8 c8 |
   \break
 
   % bar 21
-  a4 a4 r8 d4 d8~ |
-  d8 d4 r8 r4 r4 |
+  f8 g aes bes c4 c8 a | 
+  a,4 cis'8 d8 d,4 gis8 fis8 |
   %g8 g8 g4 r8 c,4 c8 |
-  r8 g4 g8 g4 r8 c,8~ |
+  g8 b e, a d, g b, e |
   %c4 r4 r4 r8 c8 | 
-  c8 c8 c4 r4 r8 c8 | 
+  a,4 d8 g,4. g'4-> |
   \break
 
   % bar 25
