@@ -63,7 +63,6 @@
   % BRIDGE bar 17
   ees4 bes' bes c |
   c8 bes4 bes4. aes4 |
-  %g4 f ees4. g8-> |
   g8 f4 ees4\glissando e4 g8-> |
   d4 des8 c4 g'8 e8 c8 |
   \break
@@ -71,25 +70,19 @@
   % bar 21
   f8 g aes bes c4 c8 a | 
   a,4 cis'8 d8 d,4 gis8 fis8 |
-  %g8 g8 g4 r8 c,4 c8 |
   g8 b e, a d, g b, e |
-  %c4 r4 r4 r8 c8 | 
   a,4 d8 g,4. g'4-> |
   \break
 
   % bar 25
-  f,4 r8 bes8 ees,4 r8 c'8 |
-  f,4 r8 des'8 ges,4 r8 c8 |
-  f,4 r8 bes8 ees,4 r8 c'8 |
-  f,4 r8 des'8 ges,4 r8 c8 |
+  r4 \tuplet 3/2 { c8 c8 c8 } c8 b4 bes8~ |
+  bes4. a4 aes4 g8-> |
+  r4 \tuplet 3/2 { g8 g8 g8 } g8 f4 ees8~ |
+  ees4. d8 aes' g d b |
   \break
 
   % bar 29
-  f,4 r8 bes8 ees,4 r8 c'8 |
-  f,4 r8 des'8 ges,8 g8 r4 |
-  f4 a,4 bes4 b4 |
-  c4 cis4 d4 e4 |
-  r4 r8 c'8~ <f, c'>2\fermata |
+  % r4 r8 c'8~ <f, c'>2\fermata |
   \bar "|."
 }
         \layout { }
