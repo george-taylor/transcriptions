@@ -83,6 +83,10 @@
 
   % bar 29
   % r4 r8 c'8~ <f, c'>2\fermata |
+  c4 c'4 r8 bes16 f16 bes,4 |
+  r8 aes'4 g f8 ees d |
+  c4 g' ees aes |
+  d,4 d'8 aes8 g8 \harmonicsOn g'8 d8 g8 \harmonicsOff |
   \bar "|."
 }
         \layout { }
