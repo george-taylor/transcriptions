@@ -82,11 +82,29 @@
   \break
 
   % bar 29
-  % r4 r8 c'8~ <f, c'>2\fermata |
   c4 c'4 r8 bes16 f16 bes,4 |
   r8 aes'4 g f8 ees d |
   c4 g' ees aes |
   d,4 d'8 aes8 g8 \harmonicsOn g'8 d8 g8 \harmonicsOff |
+  \break
+
+
+  % SECOND CHORUS
+  % bar 33
+  r8 c,,8 g' c r8 des8 aes des, |
+  r8 d8 a' d r8 des8 aes des, |
+  r8 c8 g' c r8 bes8 f bes, |
+  r8 ees8 aes d, g f ees d |
+  \break
+
+  % bar 37
+  c4 c' b bes |
+  a4 aes g8 f ees d |
+  c4 c8 bes4 bes8 a4~ |
+  a4. cis4 b4 cis8 |
+  \break
+
+  % r4 r8 c'8~ <f, c'>2\fermata |
   \bar "|."
 }
         \layout { }
