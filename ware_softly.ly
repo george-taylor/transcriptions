@@ -14,8 +14,7 @@
         composer = "Sigmund Romberg and Oscar Hammerstein II"
         % The following fields are placed at opposite ends of the same line
         % meter = "Meter"
-        % arranger = "transcription by George Taylor"
-        arranger = "transcription by Geo."
+        arranger = "transcription by George Taylor"
         % The following fields are centered at the bottom
         tagline = "Music engraving by LilyPond 2.18.2 - www.lilypond.org" % tagline at bottom of last page
         copyright = "" % copyright goes at the bottom of the first page
@@ -101,7 +100,21 @@
   c4 c' b bes |
   a4 aes g8 f ees d |
   c4 c8 bes4 bes8 a4~ |
-  a4. cis4 b4 cis8 |
+  a4. des4 ces4 des8 |
+  \break
+
+  % bar 41
+  c4. ees4 g4 d8 |
+  aes'8 aes f d g4 \harmonicsOn g'4 \harmonicsOff |
+  r8 b,4 c ees c8 |
+  d8 c b aes g f ees d |
+  \break
+
+  % bar 45
+  c4 b bes a |
+  aes4 fis8 g4 a8 b d |
+  c4 aes'8 f g4 \harmonicsOn g'8 d8 \harmonicsOff |
+  c,4 c'8 f,4 bes4 f8 |
   \break
 
   % r4 r8 c'8~ <f, c'>2\fermata |
