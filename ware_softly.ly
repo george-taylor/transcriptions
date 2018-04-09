@@ -117,6 +117,19 @@
   c,4 c'8 f,4 bes4 f8 |
   \break
 
+  % SECOND BRIDGE bar 49
+  ees8 bes' bes, bes' 
+  ees,8 bes'16 \deadNotesOn ees,16 \deadNotesOff bes8 bes'8 |
+  ees,8 bes'16 \deadNotesOn ees,16 \deadNotesOff bes8 bes'8 
+  ees,8 bes'16 \deadNotesOn ees,16 \deadNotesOff bes8 bes'8 |
+  g4 a8 bes4 g8 d b |
+  d4 c e g |
+  \break
+
+  % bar 53
+
+  \break
+
   % r4 r8 c'8~ <f, c'>2\fermata |
   \bar "|."
 }
