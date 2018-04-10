@@ -14,7 +14,7 @@
         composer = "Sigmund Romberg and Oscar Hammerstein II"
         % The following fields are placed at opposite ends of the same line
         % meter = "Meter"
-        arranger = "transcription by George Taylor"
+        arranger = "transcription by George Taylor geo@panix.com"
         % The following fields are centered at the bottom
         tagline = "Music engraving by LilyPond 2.18.2 - www.lilypond.org" % tagline at bottom of last page
         copyright = "" % copyright goes at the bottom of the first page
