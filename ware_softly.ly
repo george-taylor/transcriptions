@@ -131,7 +131,16 @@
   a8 a,4. d'8 d,4. |
   ces'4 ees,4 aes4 ges8 g8 | 
   r8 g8 fis8 g8 gis8 a8 ais8 b8 |
+  \break
 
+  % bar 57
+  c4 g4 bes2 |
+  a4. aes4 g4 g8|
+  c4 g4 bes2 |
+  a4. aes4 g8 f8 ees8 |
+  \break
+
+  % bar 61
   \break
 
   % r4 r8 c'8~ <f, c'>2\fermata |
