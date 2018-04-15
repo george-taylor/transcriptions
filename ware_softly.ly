@@ -86,7 +86,11 @@
   c4 g' ees aes |
   d,4 d'8 aes8 g8 \harmonicsOn g'8 d8 g8 \harmonicsOff |
   \break
+  \break
 
+  \pageBreak
+  \break
+  \break
 
   % SECOND CHORUS
   % bar 33
@@ -141,6 +145,10 @@
   \break
 
   % bar 61
+  d8 c4. bes4. a8~ |
+  a4. g4 g'4 f8 |
+  ees8 c4. c4. c8 |
+  d4 aes'8 f8 g4 \harmonicsOn g'4 \harmonicsOff |
   \break
 
   % r4 r8 c'8~ <f, c'>2\fermata |
